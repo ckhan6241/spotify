@@ -59,7 +59,8 @@ def scrape_multi(song_names, artist_names, output_directory):
                 try:
                     scrape(song_name, artist_name, output_directory)
                     print("scraped %s by %s" % (song_name, artist_name))
-                except:
+                except Exception as e:
+                    print(e)
                     print("ERROR!!!!!!!!!!! %s by %s" % (song_name, artist_name))
     thread_count = min(len(song_names), MAX_THREAD)
     threads = [ScrapeThread(queue) for i in range(thread_count)]
@@ -132,11 +133,11 @@ def __scrape_lyrics(url):
 
 if __name__ == "__main__":
     import pandas as pd
-    data = pd.read_csv("test-data/featuresdf.csv")
+    data = pd.read_csv("./datasets/featuresdf.csv")
     song_names = data["name"]
     artist_names = data["artists"]
     # song = "look what you made me do"
     # artist = "taylor swift"
-    directory = "test-data"
+    directory = "lyrics-data"
     # scrape(song, artist, directory)
     scrape_multi(song_names, artist_names, directory)
