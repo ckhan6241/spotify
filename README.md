@@ -3,3 +3,6 @@ Repository for our codes for BT4222 project, try to organize the repo by functio
 
 ## lyrics-scraper
 A genius.com scraper for lyrics, see [here](https://github.com/ckhan6241/spotify/tree/master/lyrics-scraper) for usage.
+
+## spotifycharts
+A downloader for data in spotifycharts.com, see [here](https://github.com/ckhan6241/spotify/tree/master/spotifycharts) for usage.
