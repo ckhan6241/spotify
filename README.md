@@ -6,3 +6,6 @@ A genius.com scraper for lyrics, see [here](https://github.com/ckhan6241/spotify
 
 ## spotifycharts
 A downloader for data in spotifycharts.com, see [here](https://github.com/ckhan6241/spotify/tree/master/spotifycharts) for usage.
+
+## spotify_audio
+A downloader for audio features in spotify, see [here](https://github.com/ckhan6241/spotify/tree/master/spotify_audio) for usage.
