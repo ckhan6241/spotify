@@ -1,0 +1,85 @@
+,id,name,album,artist,energy,liveness,tempo,speechiness,acousticness,instrumentalness,time_signature,danceability,key,duration_ms,loudness,valence,mode,popularity
+0,0,El Paso,Gunfighter Ballads And Trail Songs,Marty Robbins,0.452,0.16,106.662,0.03,0.835,2.89e-05,3,0.654,2,259307,-9.709,0.691,1,60
+1,1,Walk - Don't Run,Walk Don't Run - All-Time Greatest Hits,The Ventures,0.861,0.22,154.928,0.0318,0.566,0.0595,4,0.466,0,126733,-8.61,0.955,1,45
+2,2,Hit the Road Jack,Jazz Masters Deluxe Collection: Ray Charles,Ray Charles,0.765,0.748,171.999,0.127,0.673,0.0,4,0.608,8,117817,-8.351,0.962,0,13
+3,3,Runaround Sue,Runaround Sue,Dion,0.607,0.251,79.987,0.125,0.451,0.0,4,0.364,2,171600,-9.791,0.598,1,63
+4,4,Hey! Baby - Re-Recording,#1 Hits Of The 60's,Bruce Channel,0.522,0.302,130.845,0.0405,0.809,0.0,4,0.623,9,138813,-10.645,0.707,1,26
+5,5,The Loco-Motion - Single Version,The Dimension Dolls,Little Eva,0.893,0.176,129.664,0.047,0.674,0.00143,4,0.636,3,148627,-6.311,0.887,1,38
+6,6,Wipeout,100 Years of Surfing,The Surfaris,0.767,0.323,153.974,0.0464,0.00185,0.818,4,0.267,4,154867,-9.138,0.553,0,0
+7,7,It's All Right,The Greatest Hits,The Impressions,0.508,0.339,81.979,0.194,0.359,0.0,3,0.451,1,166333,-8.767,0.617,1,32
+8,8,Surfin' U.S.A. - 2001 - Remaster,10 Great Songs,The Beach Boys,0.878,0.127,159.105,0.0377,0.677,0.0,4,0.545,3,148973,-4.526,0.964,1,45
+9,9,It's My Party - Re-Recording,Rock & Roll Party,Lesley Gore,0.542,0.126,133.704,0.045,0.581,0.0105,4,0.797,9,134453,-8.966,0.963,1,3
+10,10,Chapel Of Love,Full Metal Jacket (Original Motion Picture Soundtrack),The Dixie Cups,0.364,0.131,123.056,0.0341,0.395,0.0,4,0.539,6,167773,-13.56,0.59,0,58
+11,11,Under The Boardwalk,Under The Boardwalk,The Drifters,0.226,0.107,123.789,0.0415,0.908,0.000168,4,0.747,7,161960,-13.635,0.778,1,66
+12,12,Dancing In The Street - Single Version,The Definitive Collection,Martha Reeves & The Vandellas,0.803,0.107,125.918,0.0481,0.135,6.45e-06,4,0.61,11,159000,-5.11,0.682,0,50
+13,13,Where Did Our Love Go,Motown: The Complete No. 1's,The Supremes,0.566,0.0716,134.9,0.0402,0.774,1.25e-06,4,0.542,0,151853,-7.87,0.786,1,44
+14,14,My Guy - Single Version,The Definitive Collection,Mary Wells,0.567,0.163,126.441,0.0488,0.678,2.41e-06,4,0.693,10,171400,-8.639,0.916,1,50
+15,15,I Get Around - 2001 - Remaster,10 Great Songs,The Beach Boys,0.835,0.0692,146.028,0.0571,0.558,0.0,4,0.369,9,134453,-2.83,0.467,0,47
+16,16,"Oh, Pretty Woman",The Essential Roy Orbison,Roy Orbison,0.582,0.0854,127.297,0.0355,0.725,0.0,4,0.608,9,176933,-9.734,0.952,1,66
+17,17,Wishin' And Hopin',The Very Best Of Dusty Springfield,Dusty Springfield,0.407,0.164,108.035,0.0424,0.203,0.0,4,0.673,11,176493,-8.409,0.679,1,3
+18,18,House Of The Rising Sun,The Best Of The Animals,The Animals,0.551,0.0823,116.997,0.0312,0.00118,0.0779,3,0.324,9,269720,-7.269,0.339,0,66
+19,19,Unchained Melody,The Very Best Of The Righteous Brothers - Unchained Melody,The Righteous Brothers,0.215,0.618,98.742,0.0288,0.517,0.0,3,0.367,0,215840,-16.652,0.266,1,66
+20,20,I Got You Babe - LP/Single Version,The Beat Goes On: Best Of (US Release),Sonny & Cher,0.708,0.143,110.533,0.0259,0.246,2e-06,3,0.621,6,193840,-9.057,0.624,1,64
+21,21,King Of The Road - Single Version,All Time Greatest Hits,Roger Miller,0.365,0.14,118.009,0.0758,0.652,0.0,4,0.674,11,148280,-10.23,0.532,1,42
+22,22,My Girl,An American Love Story,The Temptations,0.512,0.243,104.826,0.0427,0.37,0.0,4,0.592,7,176067,-6.27,0.565,1,17
+23,23,Downtown - 64 Original Release With Petula Clark,Downtown,Petula Clark,0.718,0.226,118.203,0.0483,0.731,0.0,4,0.477,4,185053,-4.942,0.553,1,4
+24,24,You've Lost That Lovin' Feelin',The Very Best Of The Righteous Brothers - Unchained Melody,The Righteous Brothers,0.309,0.0863,94.444,0.0265,0.504,0.0,4,0.39,1,225227,-14.12,0.459,1,56
+25,25,(I Can't Get No) Satisfaction - Mono Version / Remastered 2002,Out Of Our Heads (Remastered),The Rolling Stones,0.853,0.196,136.282,0.0353,0.0348,0.127,4,0.725,2,222813,-7.842,0.904,1,68
+26,26,Wooly Bully,Full Metal Jacket (Original Motion Picture Soundtrack),Sam The Sham & The Pharaohs,0.575,0.151,140.601,0.0529,0.713,3.66e-06,4,0.582,7,140867,-11.89,0.558,1,51
+27,27,Like a Rolling Stone,Highway 61 Revisited,Bob Dylan,0.721,0.189,95.261,0.032,0.729,0.0,4,0.483,0,369600,-6.836,0.562,1,73
+28,28,Wild Thing - Re-Recorded / Remastered,Raised On Classic Rock,The Troggs,0.79,0.0635,208.289,0.16,0.499,0.0935,4,0.398,9,151427,-4.903,0.555,1,40
+29,29,"Paint It, Black - (Original Single Mono Version)",Singles 1965-1967,The Rolling Stones,0.857,0.369,159.662,0.113,0.0161,0.0376,4,0.501,5,224133,-7.806,0.781,0,62
+30,30,When A Man Loves A Woman,When A Man Loves A Woman,Percy Sledge,0.15,0.122,97.398,0.0272,0.13,0.0755,3,0.516,1,173867,-20.41,0.206,1,66
+31,31,Good Lovin' - Single Version,The Young Rascals,The Young Rascals,0.507,0.325,196.494,0.0442,0.00206,0.00057,4,0.252,2,150907,-13.337,0.816,1,47
+32,32,Strangers in the Night,Sinatra: Best Of The Best,Frank Sinatra,0.534,0.317,90.376,0.0278,0.684,0.0,4,0.33,0,156840,-7.496,0.495,1,3
+33,33,These Boots Are Made For Walkin',Boots,Nancy Sinatra,0.392,0.0965,82.742,0.0824,0.483,1.11e-06,4,0.74,9,166008,-11.996,0.387,1,68
+34,34,Summer in the City - Remastered,Hums Of The Lovin' Spoonful,The Lovin' Spoonful,0.681,0.0889,110.461,0.0397,0.0592,0.000177,4,0.423,10,160307,-9.756,0.559,1,61
+35,35,California Dreamin',All The Leaves Are Brown The Golden Era Collection,The Mamas & The Papas,0.722,0.049,112.424,0.0389,0.382,0.0,4,0.547,1,160373,-6.593,0.654,0,55
+36,36,You Can't Hurry Love,Favorites,The Supremes,0.81,0.134,97.389,0.0798,0.762,0.0,4,0.617,10,165080,-6.513,0.65,1,31
+37,37,Last Train To Clarksville,The Best Of The Monkees (US Release),The Monkees,0.678,0.741,98.154,0.0276,0.471,0.0,4,0.477,0,166173,-6.772,0.717,1,49
+38,38,Daydream Believer,The Best Of The Monkees (US Release),The Monkees,0.488,0.11,125.683,0.0304,0.256,0.0,4,0.51,7,179613,-10.304,0.649,1,47
+39,39,I'm A Believer - Single/LP Version,The Best Of The Monkees (US Release),The Monkees,0.772,0.199,79.462,0.0322,0.595,2.47e-06,4,0.503,0,165613,-6.205,0.935,1,59
+40,40,"Monday, Monday",All The Leaves Are Brown The Golden Era Collection,The Mamas & The Papas,0.562,0.666,109.879,0.029,0.74,0.0,4,0.483,1,206360,-6.282,0.709,1,36
+41,41,Lil' Red Riding Hood,20th Century Masters: The Millennium Collection: Best Of Sam The Sham & The Pharaohs,Sam The Sham & The Pharaohs,0.397,0.176,121.87,0.0392,0.736,0.0,4,0.752,11,161080,-10.012,0.566,0,38
+42,42,You Don't Have To Say You Love Me,The Very Best Of Dusty Springfield,Dusty Springfield,0.527,0.0695,111.694,0.0392,0.525,0.0,3,0.262,2,170333,-8.984,0.536,1,4
+43,43,The Sound of Silence,"Wednesday Morning, 3 A.M.",Simon & Garfunkel,0.217,0.101,106.842,0.0302,0.871,2.59e-06,4,0.531,6,185200,-13.883,0.34,1,11
+44,44,Daydream,The Greatest Hits,The Lovin' Spoonful,0.332,0.119,110.886,0.0538,0.84,0.0,4,0.826,1,141667,-11.336,0.812,1,38
+45,45,Incense And Peppermints - Stereo Version,Anthology,Strawberry Alarm Clock,0.729,0.153,132.488,0.0293,0.064,0.0,4,0.475,9,167933,-8.875,0.782,1,27
+46,46,Happy Together,Happy Together,The Turtles,0.367,0.0818,120.175,0.0328,0.55,1.38e-05,4,0.584,6,176293,-9.638,0.588,0,73
+47,47,Elenore,The Turtles Present The Battle of the Bands,The Turtles,0.625,0.24,122.504,0.0375,0.6,1.52e-05,4,0.63,4,151307,-8.407,0.887,1,53
+48,48,For What It's Worth,The Best Of Buffalo Springfield: Retrospective,Buffalo Springfield,0.278,0.0857,98.852,0.0542,0.331,0.00771,4,0.64,2,160933,-19.667,0.787,1,38
+49,49,Turn! Turn! Turn!,20 Essential Tracks From The Box Set: 1965-1990,The Byrds,0.693,0.0433,122.009,0.0368,0.0379,3.41e-05,4,0.444,2,233427,-10.818,0.773,1,35
+50,50,Brown Eyed Girl,Super Hits,Van Morrison,0.678,0.577,151.466,0.0364,0.29,0.0,4,0.478,7,182960,-7.032,0.892,1,27
+51,51,A Whiter Shade Of Pale,British Invasion Gold,Procol Harum,0.612,0.103,148.512,0.0318,0.655,0.00376,4,0.242,0,244760,-7.495,0.371,1,40
+52,52,"Hello, I Love You",Waiting For The Sun,The Doors,0.554,0.0766,117.835,0.0425,0.029,0.0,4,0.597,11,133200,-14.144,0.963,0,58
+53,53,Mrs. Robinson,Greatest Hits,Simon & Garfunkel,0.456,0.103,91.995,0.0489,0.721,2e-05,4,0.602,6,234347,-13.784,0.787,0,57
+54,54,Sunshine Of Your Love,Disraeli Gears (Remastered),Cream,0.486,0.12,115.076,0.0385,0.436,9.77e-05,4,0.684,2,250000,-12.521,0.826,1,67
+55,55,People Got To Be Free - Single Version,The Rascals: Essentials,The Rascals,0.623,0.145,126.334,0.0348,0.41,0.0,4,0.67,10,178867,-9.65,0.96,1,35
+56,56,Bad Moon Rising,Chronicle: 20 Greatest Hits,Creedence Clearwater Revival,0.694,0.0591,89.684,0.0272,0.0119,1.39e-06,4,0.635,2,139507,-9.118,0.921,1,54
+57,57,It's Your Thing,It's Your Thing: The Story Of The Isley Brothers,The Isley Brothers,0.682,0.0573,185.273,0.124,0.0777,2.83e-06,4,0.378,10,166507,-10.228,0.89,1,64
+58,58,Get Together,Best Of The Youngbloods,The Youngbloods,0.416,0.0846,103.317,0.0268,0.548,0.065,4,0.497,2,276225,-15.925,0.59,1,46
+59,59,Build Me up Buttercup (Re-Recorded),60s Greatest Moments,The Foundations,0.814,0.106,132.062,0.0367,0.158,2.72e-06,4,0.707,0,185480,-7.364,0.922,1,14
+60,60,Everyday People,R&B: From Doo-Wop To Hip-Hop,Sly & The Family Stone,0.619,0.113,114.58,0.0294,0.245,0.0151,4,0.813,7,139507,-8.203,0.774,1,69
+61,61,"Sugar, Sugar","Sugar, Sugar",The Archies,0.647,0.0972,122.771,0.0299,0.757,3.08e-06,4,0.757,2,169627,-10.264,0.97,1,61
+62,62,Tell It Like It Is,Tell It Like It Is,Aaron Neville,0.383,0.109,176.249,0.059,0.775,4.39e-06,3,0.495,5,191652,-10.779,0.79,1,23
+63,63,Raindrops Keep Falling On My Head,Forrest Gump - The Soundtrack,B.J. Thomas,0.426,0.113,102.086,0.042,0.79,2.06e-05,4,0.694,5,180173,-8.83,0.662,1,0
+64,64,Hooked On A Feeling,Reservoir Dogs (Original Motion Picture Soundtrack),Blue Swede,0.668,0.325,118.433,0.115,0.296,0.0,4,0.55,8,173760,-10.954,0.904,1,3
+65,65,White Room,Gold,Cream,0.605,0.0541,109.863,0.0291,0.212,0.00759,4,0.549,0,298373,-12.69,0.45,1,40
+66,66,Little Green Bag,Reservoir Dogs (Original Motion Picture Soundtrack),George Baker Selection,0.663,0.0725,103.466,0.0327,0.0485,0.000441,4,0.708,7,195467,-12.344,0.88,1,9
+67,67,The Puppy Song,You've Got Mail,Harry Nilsson,0.46,0.276,120.506,0.0341,0.759,0.0,4,0.709,7,162467,-8.877,0.624,1,33
+68,68,Skip A Rope,"All-Time Country Hits - 40 Classic Hits From The 50's, 60's And 70's",Henson Cargill,0.336,0.0915,144.196,0.0451,0.872,0.022,4,0.704,4,152813,-18.221,0.568,1,0
+69,69,The Wind Cries Mary,Are You Experienced,Jimi Hendrix,0.495,0.2,80.086,0.0501,0.348,0.0286,4,0.499,5,200733,-10.508,0.339,1,64
+70,70,Hey Joe,Experience Hendrix: The Best Of Jimi Hendrix,Jimi Hendrix,0.757,0.0332,166.717,0.0359,0.00351,0.329,4,0.349,9,209813,-5.659,0.569,1,55
+71,71,Cleo's Mood,The Definitive Collection,Jr. Walker & The All Stars,0.567,0.161,107.305,0.0283,0.411,0.0427,4,0.66,3,160440,-6.746,0.845,0,19
+72,72,Sunny Afternoon,A Tribute to the Kinks,The Kinx,0.808,0.104,131.179,0.037,0.573,6.82e-05,4,0.515,0,208800,-5.744,0.477,1,8
+73,73,Everybody's Talkin' - 1989 Remastered,Forrest Gump - The Soundtrack,Harry Nilsson,0.538,0.476,124.669,0.0291,0.22,2.53e-06,4,0.517,4,162200,-8.704,0.659,1,16
+74,74,Spirit In The Sky,Music From The Motion Picture Michael,Norman Greenbaum,0.643,0.088,128.262,0.0314,0.112,0.00209,4,0.601,2,239600,-5.828,0.552,1,73
+75,75,Let's Spend The Night Together,Hot Rocks (1964-1971) [Remastered],The Rolling Stones,0.791,0.275,140.81,0.0499,0.687,0.0,4,0.561,7,215773,-7.59,0.569,1,35
+76,76,Jumpin' Jack Flash,Hot Rocks (1964-1971) [Remastered],The Rolling Stones,0.906,0.0821,137.328,0.0606,0.0497,0.169,4,0.574,3,222280,-7.949,0.742,1,43
+77,77,Scarborough Fair / Canticle,Greatest Hits,Simon & Garfunkel,0.261,0.112,128.551,0.0315,0.689,0.0,3,0.356,2,190093,-14.963,0.279,1,57
+78,78,Lazy Sunday,Turn On the 60's Experience,Small Faces,0.586,0.65,132.815,0.0499,0.104,0.0,4,0.598,2,189507,-8.391,0.486,1,4
+79,79,Magic Carpet Ride,20th Century Masters : The Millennium Collection: Best of Steppenwolf,Steppenwolf,0.814,0.0648,111.221,0.0552,0.157,0.00846,4,0.611,4,267800,-10.446,0.743,0,56
+80,80,My Generation,The Who Sings My Generation,The Who,0.796,0.272,95.606,0.0731,0.16,0.0,4,0.328,0,198867,-7.739,0.703,0,58
+81,81,Chug-A-Lug,The Very Best of…,Roger Miller,0.408,0.145,171.922,0.096,0.69,0.000219,4,0.699,11,123360,-11.46,0.842,1,42
+82,82,Do-Wacka-Do,The Very Best of…,Roger Miller,0.334,0.219,180.676,0.279,0.509,0.0,4,0.609,4,107027,-16.565,0.878,1,17
+83,83,Don't Let Me Be Misunderstood,The Best Of The Animals,The Animals,0.674,0.539,112.442,0.0278,0.131,0.0,4,0.561,11,148347,-6.853,0.64,0,46

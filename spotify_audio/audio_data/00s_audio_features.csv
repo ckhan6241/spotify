@@ -1,0 +1,101 @@
+,id,name,album,artist,energy,liveness,tempo,speechiness,acousticness,instrumentalness,time_signature,danceability,key,duration_ms,loudness,valence,mode,popularity
+0,0,Hanging By A Moment,No Name Face,Lifehouse,0.855,0.0716,124.578,0.0352,0.000983,0.0,4,0.531,1,216067,-4.95,0.424,1,65
+1,1,Say My Name,The Writing's On The Wall,Destiny's Child,0.678,0.149,138.009,0.102,0.273,0.0,4,0.713,5,271333,-3.525,0.734,0,78
+2,2,Bent,The Matchbox Twenty Collection,Matchbox Twenty,0.83,0.375,95.468,0.0386,0.0404,3.85e-06,4,0.518,6,256133,-6.814,0.527,0,46
+3,3,Thong Song,Unleash The Dragon,Sisqo,0.885,0.0657,121.54,0.0614,0.132,0.000197,4,0.701,2,253733,-6.81,0.741,1,62
+4,4,Kryptonite,Modern Rock Number 1's,3 Doors Down,0.866,0.15,99.021,0.0297,0.00547,1.62e-05,4,0.544,11,233933,-4.889,0.51,0,54
+5,5,It's Gonna Be Me,No Strings Attached,*NSYNC,0.873,0.0372,165.071,0.071,0.0407,1.27e-06,4,0.636,0,192427,-4.672,0.908,0,66
+6,6,Show Me the Meaning of Being Lonely,Millennium,Backstreet Boys,0.625,0.0765,167.998,0.0252,0.231,0.0,4,0.63,6,234960,-5.088,0.683,0,59
+7,7,All The Small Things,Enema Of The State,blink-182,0.891,0.547,148.599,0.057,0.0122,0.0,4,0.439,0,168000,-4.764,0.695,1,74
+8,8,You Sang To Me,Marc Anthony,Marc Anthony,0.894,0.216,165.98,0.0296,0.0103,2.66e-06,4,0.578,10,347107,-5.42,0.741,1,55
+9,9,Never Let You Go - 2006 Remastered Version,A Collection,Third Eye Blind,0.928,0.0578,113.76,0.0377,0.108,0.000418,4,0.735,4,237907,-6.115,0.966,1,39
+10,10,Most Girls,Can't Take Me Home,P!nk,0.745,0.0664,97.919,0.0312,0.0392,0.00321,4,0.753,11,298933,-5.698,0.692,0,52
+11,11,Wonderful,"Songs From An American Movie, Vol. One: Learning How To Smile",Everclear,0.817,0.346,186.765,0.05,0.0118,8.25e-06,4,0.514,7,280813,-6.489,0.734,1,54
+12,12,Otherside,Californication,Red Hot Chili Peppers,0.795,0.0756,123.229,0.0574,0.00316,0.000202,4,0.458,0,255373,-3.265,0.513,1,65
+13,13,Big Pimpin',Vol. 3... Life And Times Of S. Carter,JAY Z,0.816,0.0406,138.03,0.158,0.192,0.00309,4,0.88,11,284640,-6.269,0.914,0,0
+14,14,Fallin',Songs In A Minor,Alicia Keys,0.609,0.233,95.982,0.037,0.263,0.00101,3,0.653,11,210200,-7.519,0.482,0,76
+15,15,Drops of Jupiter,Drops Of Jupiter,Train,0.64,0.154,79.297,0.0275,0.154,0.0,4,0.468,0,259933,-5.862,0.499,1,79
+16,16,Again,Greatest Hits,Lenny Kravitz,0.82,0.161,79.155,0.0296,0.0186,4.91e-05,4,0.554,2,228933,-5.035,0.755,1,58
+17,17,"Independent Women, Pt. 1",Survivor,Destiny's Child,0.602,0.169,97.954,0.206,0.362,3.69e-06,4,0.73,6,221133,-3.782,0.927,0,68
+18,18,It Wasn't Me,The Boombastic Collection - Best of Shaggy,Shaggy,0.619,0.353,94.762,0.0695,0.0618,0.0,4,0.849,0,227547,-4.774,0.656,1,72
+19,19,U Remind Me,8701,Usher,0.629,0.254,93.985,0.0782,0.194,0.0,4,0.657,6,266893,-4.938,0.726,1,74
+20,20,If You're Gone,The Matchbox Twenty Collection,Matchbox Twenty,0.659,0.126,109.933,0.0298,0.427,1.33e-06,4,0.544,9,274933,-7.191,0.361,1,45
+21,21,Where the Party At,Jagged Little Thrill,Jagged Edge,0.661,0.0847,129.491,0.226,0.31,0.0,5,0.596,5,232573,-6.239,0.86,0,67
+22,22,Peaches And Cream,Part III,112,0.52,0.0532,203.862,0.334,0.00277,0.0,4,0.677,4,193093,-6.255,0.768,0,64
+23,23,Butterfly,The Gift Of Game,Crazy Town,0.811,0.107,103.502,0.081,0.00132,0.000142,4,0.736,9,216733,-4.17,0.609,0,74
+24,24,Fill Me In,Greatest Hits (Standard DMD),Craig David,0.742,0.0871,132.495,0.0389,0.418,0.00728,4,0.686,8,231493,-6.981,0.858,1,3
+25,25,Crazy for This Girl,"Songs From Dawson's Creek, Vol. II",Evan And Jaron,0.933,0.0959,94.072,0.0368,0.000734,2.9e-05,4,0.462,0,201867,-4.851,0.386,1,42
+26,26,Hot In Herre,6 Pack (Explicit Version),Nelly,0.72,0.0622,107.086,0.159,0.222,0.0,4,0.969,9,228653,-4.904,0.899,0,32
+27,27,U Got It Bad,8701,Usher,0.5,0.0733,124.037,0.03,0.0227,1.53e-06,4,0.816,1,247840,-4.551,0.649,1,70
+28,28,In The End,Hybrid Theory (Bonus Track Version),Linkin Park,0.9,0.322,105.213,0.0584,0.0113,0.0,4,0.553,3,219000,-4.556,0.398,0,84
+29,29,Complicated,Let Go,Avril Lavigne,0.776,0.3,77.987,0.0459,0.0572,7.74e-06,4,0.585,5,244507,-5.898,0.427,1,78
+30,30,The Middle,Bleed American (Deluxe Edition),Jimmy Eat World,0.897,0.263,161.944,0.0483,0.0424,0.0,4,0.629,2,168253,-3.401,0.93,1,74
+31,31,Without Me,Curtain Call,Eminem,0.655,0.359,112.227,0.0899,0.00324,0.0,4,0.929,7,291213,-2.91,0.665,1,52
+32,32,The Real Slim Shady,Curtain Call,Eminem,0.664,0.0431,104.507,0.0579,0.0348,0.0,4,0.949,5,284800,-4.2,0.738,0,54
+33,33,Hey Baby,Rock Steady,No Doubt,0.877,0.234,187.305,0.226,0.064,0.0,4,0.599,11,207040,-3.45,0.79,0,50
+34,34,In Da Club,Get Rich Or Die Tryin' (Explicit Version),50 Cent,0.73,0.0753,90.096,0.373,0.283,0.0,4,0.865,6,193467,-2.813,0.808,0,74
+35,35,Get Busy,Dutty Rock,Sean Paul,0.824,0.158,100.202,0.036,0.615,0.0,4,0.735,10,211666,-4.143,0.726,0,69
+36,36,Right Thurr,Jackpot,Chingy,0.749,0.0591,92.077,0.253,0.15,0.0,4,0.866,2,249800,-3.977,0.891,1,68
+37,37,When I'm Gone,Away From The Sun,3 Doors Down,0.765,0.104,74.072,0.033,0.00457,0.0,4,0.496,7,260507,-5.66,0.337,1,68
+38,38,Get Low,Kings Of Crunk,Ying Yang Twins,0.625,0.121,101.019,0.067,0.0301,0.0,4,0.521,1,334067,-7.47,0.136,1,74
+39,39,Where Is The Love?,Monkey Business/Elephunk,The Black Eyed Peas,0.71,0.14,94.061,0.179,0.101,0.0,4,0.832,5,272533,-3.231,0.83,1,3
+40,40,I'm with You,Let Go,Avril Lavigne,0.406,0.117,151.95,0.0291,0.08,0.0,3,0.457,9,223067,-7.462,0.208,1,67
+41,41,Lose Yourself - Soundtrack Version,Curtain Call,Eminem,0.728,0.355,171.349,0.281,0.0112,0.00104,4,0.685,2,326467,-4.544,0.0604,1,52
+42,42,Cry Me a River,Justified,Justin Timberlake,0.653,0.104,73.884,0.176,0.575,0.0,4,0.624,8,288333,-6.582,0.565,0,77
+43,43,Rock Your Body,Justified,Justin Timberlake,0.714,0.0521,100.972,0.14,0.202,0.000234,4,0.891,4,267267,-6.055,0.818,0,75
+44,44,"Beautiful - Feat. Pharrell, Uncle Charlie Wilson",The Best Of Snoop Dogg,Snoop Dogg,0.74,0.0881,101.025,0.132,0.299,0.0,4,0.893,11,299147,-4.936,0.963,0,66
+45,45,Jenny from the Block - Track Masters Remix,This Is Me...Then,Jennifer Lopez,0.754,0.0575,100.002,0.207,0.00833,3.42e-06,4,0.844,6,187840,-5.46,0.961,1,65
+46,46,Yeah!,Confessions,Usher,0.791,0.0388,105.018,0.112,0.0183,0.0,4,0.894,2,250373,-4.699,0.583,1,80
+47,47,This Love,Songs About Jane,Maroon 5,0.849,0.113,95.041,0.0383,0.0535,0.0,4,0.711,5,206200,-4.634,0.776,0,65
+48,48,I Don't Wanna Know (feat. Enya And P. Diddy),Hurt No More,Mario Winans,0.493,0.121,96.998,0.0475,0.332,0.00105,4,0.84,11,257360,-5.9,0.361,0,17
+49,49,Tipsy - Radio Mix,Tipsy,J-Kwon,0.748,0.101,92.978,0.278,0.0484,0.0,4,0.925,11,243027,-5.572,0.615,0,65
+50,50,She Will Be Loved,Songs About Jane,Maroon 5,0.684,0.125,102.041,0.0288,0.0593,0.0,4,0.695,0,257133,-5.403,0.515,0,71
+51,51,Milkshake,The Hits,Kelis,0.774,0.159,113.0,0.0434,0.00933,0.0213,4,0.887,1,182813,-6.108,0.826,1,60
+52,52,My Band,D-12 World,D12,0.849,0.116,120.014,0.0828,0.497,2.05e-06,4,0.851,1,298773,-3.383,0.844,0,64
+53,53,We Belong Together,The Emancipation of Mimi,Mariah Carey,0.469,0.0928,139.975,0.0835,0.0358,0.0,4,0.838,0,201400,-7.992,0.778,1,72
+54,54,Let Me Love You,Let Me Love You,Mario,0.578,0.118,94.514,0.0922,0.235,0.0,4,0.656,7,256733,-8.97,0.556,0,78
+55,55,Holiday/Boulevard Of Broken Dreams,American Idiot (Deluxe),Green Day,0.827,0.301,167.086,0.0362,0.000659,2.55e-06,4,0.29,8,493400,-3.451,0.45,1,64
+56,56,Mr. Brightside,Hot Fuss,The Killers,0.936,0.0926,148.112,0.0917,0.00108,0.0,4,0.33,1,222587,-3.66,0.234,1,80
+57,57,Beverly Hills,Make Believe,Weezer,0.819,0.187,175.711,0.161,0.107,0.0,4,0.542,5,196093,-3.735,0.714,1,67
+58,58,Drop It Like It's Hot,R&G (Rhythm & Gangsta): The Masterpiece,Snoop Dogg,0.622,0.103,91.989,0.215,0.187,0.0,4,0.881,1,266067,-4.149,0.633,1,71
+59,59,Hate It Or Love It,The Documentary,The Game,0.785,0.123,99.975,0.204,0.122,0.0,4,0.807,9,206400,-4.947,0.424,1,66
+60,60,My Humps,Monkey Business/Elephunk,The Black Eyed Peas,0.687,0.11,123.935,0.222,0.113,3.85e-06,4,0.802,4,326960,-6.05,0.569,1,1
+61,61,Feel Good Inc,Demon Days,Gorillaz,0.705,0.613,138.559,0.177,0.00836,0.00233,4,0.818,6,222640,-6.679,0.772,1,82
+62,62,Promiscuous,The Best of Nelly Furtado (Deluxe),Nelly Furtado,0.97,0.164,114.351,0.0502,0.0526,6.63e-05,4,0.811,10,242373,-6.065,0.878,0,68
+63,63,Ridin',The Sound of Revenge,Chamillionaire,0.808,0.517,143.04,0.101,0.181,0.0,4,0.788,8,302000,-4.77,0.844,0,65
+64,64,Dani California,Dani California (U.S. DMD Maxi),Red Hot Chili Peppers,0.913,0.346,96.184,0.0437,0.0193,8.59e-06,4,0.556,0,282160,-2.36,0.73,1,60
+65,65,Hey There Delilah,Hey There Delilah,Plain White T's,0.28,0.116,105.087,0.029,0.861,1.51e-06,4,0.624,2,226493,-10.415,0.288,1,57
+66,66,Say It Right,The Best of Nelly Furtado (Deluxe),Nelly Furtado,0.873,0.0467,116.949,0.135,0.0556,0.00087,4,0.873,1,223520,-6.203,0.809,1,54
+67,67,Smack That - Dirty,Konvicted (Deluxe),Akon,0.735,0.11,118.977,0.0503,0.281,0.0,4,0.94,5,212360,-5.172,0.913,0,50
+68,68,This Is Why I'm Hot,Music Is My Savior,MiMS,0.6,0.495,80.021,0.576,0.277,0.0,4,0.621,8,253707,-6.349,0.485,1,59
+69,69,The Way I Are,Summer Party,Timbaland,0.828,0.132,114.725,0.0692,0.167,0.744,4,0.743,3,169413,-6.273,0.753,0,55
+70,70,Stronger,The Hangover Part II: Original Motion Picture Soundtrack,Kanye West,0.7,0.522,103.973,0.15,0.00683,0.0,4,0.635,1,311413,-7.987,0.505,1,7
+71,71,My Love,FutureSex/LoveSounds Deluxe Edition,Justin Timberlake,0.68,0.682,119.953,0.224,0.277,1.17e-05,4,0.772,11,276160,-5.881,0.807,0,60
+72,72,"This Ain't A Scene, It's An Arms Race",Infinity On High (Deluxe Edition),Fall Out Boy,0.888,0.0475,100.033,0.0396,0.000623,0.0,4,0.601,9,212040,-4.018,0.4,1,61
+73,73,Cupid's Chokehold / Breakfast In America,The Papercut Chronicles,Gym Class Heroes,0.711,0.298,79.755,0.075,0.526,0.0,4,0.666,1,236880,-4.227,0.884,0,65
+74,74,Forever,Forever,Chris Brown,0.819,0.203,120.013,0.0463,0.0371,0.000184,4,0.672,11,278036,-4.457,0.446,1,70
+75,75,Disturbia,Good Girl Gone Bad: Reloaded,Rihanna,0.794,0.276,124.93,0.0568,0.11,0.0,4,0.706,11,238627,-4.321,0.729,0,67
+76,76,Clumsy,The Dutchess,Fergie,0.585,0.303,91.986,0.0695,0.183,0.000864,4,0.824,7,240427,-4.083,0.413,1,40
+77,77,Paper Planes,Kala,M.I.A.,0.854,0.731,172.231,0.265,0.0277,9.62e-05,4,0.457,2,203760,-6.2,0.485,1,70
+78,78,Dead And Gone - feat. Justin Timberlake,Paper Trail,T.I.,0.746,0.601,135.021,0.259,0.0402,0.0,4,0.713,0,299747,-4.99,0.47,1,12
+79,79,Day 'N' Nite (nightmare),Man On The Moon: The End Of Day,Kid Cudi,0.446,0.117,138.035,0.0635,0.503,6.32e-06,4,0.878,11,221267,-6.362,0.805,0,74
+80,80,Sober,Funhouse,P!nk,0.796,0.182,90.931,0.0305,0.0698,0.0,4,0.61,6,251533,-4.907,0.413,1,39
+81,81,Love You Madly,Comfort Eagle,Cake,0.809,0.169,106.999,0.0598,0.0908,9.41e-05,4,0.752,9,237827,-8.399,0.658,1,56
+82,82,Dream On - Remastered Version,The Best Of Depeche Mode Volume 1,Depeche Mode,0.6,0.112,127.862,0.036,0.195,0.000198,4,0.771,10,219520,-8.65,0.703,0,31
+83,83,Do You Realize??,Yoshimi Battles The Pink Robots (U.S. Version),The Flaming Lips,0.797,0.392,129.964,0.0333,0.006,0.000304,4,0.464,0,213173,-5.244,0.547,1,64
+84,84,Music,Music (U.S. Version),Madonna,0.833,0.2,119.847,0.0644,0.00132,0.0824,4,0.734,7,224240,-8.166,0.862,1,47
+85,85,I Wanna Know,Greatest Hits,Joe,0.485,0.416,136.057,0.0376,0.256,1.35e-05,4,0.724,6,296800,-5.919,0.581,1,65
+86,86,Maria Maria - Radio Mix,Ultimate Santana,Santana,0.631,0.0349,97.927,0.115,0.0485,0.00316,4,0.779,2,262160,-5.314,0.663,1,57
+87,87,It's Been Awhile,The Singles,Staind,0.774,0.143,116.529,0.0338,0.00189,0.000549,4,0.509,6,264707,-4.054,0.0824,1,62
+88,88,All For You,All For You,Janet Jackson,0.925,0.104,113.528,0.0867,0.0178,0.125,3,0.752,2,330027,-3.288,0.692,1,59
+89,89,All You Wanted,The Spirit Room (U.S. Version),Michelle Branch,0.72,0.122,96.103,0.0286,0.00466,0.00303,4,0.499,8,217680,-9.101,0.652,1,60
+90,90,Blurry,Come Clean,Puddle Of Mudd,0.94,0.142,157.477,0.0563,0.00916,0.0,4,0.431,3,304000,-4.462,0.484,0,67
+91,91,A Thousand Miles,Best Of,Vanessa Carlton,0.825,0.227,94.931,0.0352,0.314,0.0,4,0.56,11,237440,-3.794,0.339,1,60
+92,92,Move Ya Body,Nina Sky,Nina Sky,0.71,0.0573,121.072,0.0446,0.0234,0.000161,4,0.876,11,232000,-6.446,0.828,0,64
+93,93,Gold Digger,Late Registration,Kanye West,0.699,0.0917,92.939,0.384,0.0223,0.0,4,0.638,1,207627,-5.54,0.66,0,77
+94,94,I Write Sins Not Tragedies,A Fever You Can't Sweat Out,Panic! At The Disco,0.795,0.114,170.06,0.134,0.0938,0.0,4,0.567,9,187613,-4.985,0.635,0,76
+95,95,Buy U a Drank (Shawty Snappin'),Epiphany,T-Pain,0.55,0.0737,80.001,0.262,0.0108,0.0,4,0.451,1,227960,-8.137,0.594,1,78
+96,96,Paralyzer,Them Vs. You Vs. Me (Deluxe Edition),Finger Eleven,0.941,0.251,106.015,0.0448,0.169,0.0,4,0.645,4,208107,-3.425,0.881,0,67
+97,97,Apologize,Shock Value,Timbaland,0.61,0.101,118.032,0.0285,0.0399,0.0,4,0.654,8,184400,-6.051,0.118,1,63
+98,98,Down,All Or Nothing,Jay Sean,0.693,0.0778,66.002,0.0311,0.0149,0.0,4,0.663,11,212107,-4.505,0.71,0,69
+99,99,Rain,We Are Not Alone,Breaking Benjamin,0.299,0.103,124.846,0.0279,0.578,0.0,4,0.614,0,205240,-9.792,0.397,1,49
