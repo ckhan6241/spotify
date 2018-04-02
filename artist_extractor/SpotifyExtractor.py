@@ -2,8 +2,7 @@ import sys
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
-import scraper
-
+import traceback
 
 CLIENT_ID = 'a8f90fb217ea429688a346d70bd41f88'
 CLIENT_SECRET = '49fdbe3b1e714020b8bcb292482a572c'
@@ -57,15 +56,19 @@ class SpotifyExtractor(object):
 			for index in range(0,l,50):
 				tmp = uris[index:min(index + 50, l)]
 				feature = pd.DataFrame.from_dict(self.sp.audio_features(tmp))
+				popularity = pd.DataFrame.from_dict(self.sp.tracks(tmp)['tracks'])
+				popularity = popularity[['id','popularity']]
+				feature = feature.merge(popularity, on='id')
 				features = features.append(feature,ignore_index = True) 
 			df = df.merge(features,on=['uri','id'])
 			df.drop(['artists','type_x','type_y','external_urls','track_href'],axis = 1,inplace=True)
 			df['artist'] = artist_name
+
 			df = df.reindex_axis(sorted(df.columns), axis=1)
 			df.to_csv(artist_name + '_all_songs.csv')
 			print('All songs retrieved!')
 		except Exception as e:
-			print(e)
+			traceback.print_exc()
 			print("Error in getting all songs!!!...")
 
 
